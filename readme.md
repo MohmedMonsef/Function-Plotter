@@ -5,7 +5,7 @@
 ## How to run
 - install the dependencies
 - on linux run: `python3 plotter.py`
-- on windows run: `python3 plotter.py`
+- on windows run: `python plotter.py`
 
 ## Test Example
 ![](./images/1.png)
